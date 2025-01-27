@@ -1,4 +1,4 @@
-# Linear-Power-Supply
+# Linear-Power-Supply (1.5A)
 ## ABSTRACT
 We had to create a linear power supply with a maximum current restriction (also known as over-current protection).Our power source need to be able to deliver consistent output voltage for various variable output loads as well as to a fluctuating input line voltage. This report explains the functionality of Linear power supply which can give output as from 8V to 14V.This is bassed on the module EN2111 - Electronic Circuit Design, Which is conducted by Dr. Thayaparan Subramaniam.
 
